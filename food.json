@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Home made pizza",
+        "image": "./img/pizza1.png",
+        "price":"₹190",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 1,
+        "name": "Home made pizza",
+        "image": "./img/pizza2.png",
+        "price":"₹123",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 2,
+        "name": "Home made pizza",
+        "image": "./img/pizza3.png",
+        "price":"₹190",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 3,
+        "name": "Home made pizza",
+        "image": "./img/pizza4.png",
+        "price":"₹190",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 3,
+        "name": "Home made pizza",
+        "image": "./img/pizza5.png",
+        "price":"$19",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 3,
+        "name": "Home made pizza",
+        "image": "./img/pizza6.png",
+        "price":"₹190",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 3,
+        "name": "Home made pizza",
+        "image": "./img/pizza7.png",
+        "price":"₹190",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 3,
+        "name": "Home made pizza",
+        "image": "./img/pizza8.png",
+        "price":"₹190",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 3,
+        "name": "Home made pizza",
+        "image": "./img/pizza9.png",
+        "price":"$19",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 3,
+        "name": "Home made pizza",
+        "image": "./img/pizza10.png",
+        "price":"₹190",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 3,
+        "name": "Home made pizza",
+        "image": "./img/pizza12.png",
+        "price":"₹190",
+        "rating": 4.7,
+        "time":"50-79 min"
+    },
+    {
+        "id": 3,
+        "name": "Home made pizza",
+        "image": "./img/pizza4.png",
+        "price":"₹190",
+        "rating": 4.7,
+        "time":"50-79 min"
+    }
+]
